@@ -1,3 +1,3 @@
 # lect_16
 
-Main branch
+develop branch
